@@ -1,0 +1,10 @@
+{
+    "url": "https://github.com/mlagerberg/todo-highlight-sublime",
+    "description": "This package adds TODO-format syntax highlighting to Sublime Text.",
+    "platforms": [
+        "*"
+    ],
+    "version": "1.0.0",
+    "dependencies": [],
+    "sublime_text": ">=3000"
+}
